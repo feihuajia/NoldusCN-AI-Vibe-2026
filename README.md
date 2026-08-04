@@ -104,6 +104,15 @@ Outing 期间进行 **现场路演** + **评委打分**。
 <!-- 项目将通过 PR 自动添加 -->
 | 队伍 | 项目名称 | 简介 |
 |------|---------|------|
+| KANG | 3D轨迹数据分析可视化Web平台 | 将 Track3D 导出的 41 列 3D 轨迹数据变为浏览器内可交互、点击即联动的 Web 可视化平台 |
+| AndyHub | DanioScope Basler Recorder | 与 DanioScope 配合的 Basler 工业相机录制工具，支持实时预览与 MP4 录制 |
+| 404 | CatWalk AI Analyzer UI | 集成 LLM 的 CatWalk 步态分析 UI，自动解析步态指标、趋势可视化与实验合规检查 |
+| Shang | PhenoTyper Wall Configurator | 轻量网页配置工具，实时检查 PhenoTyper PT3000 四面墙板的组合兼容性 |
+| Zest Wu | AI 辅助学习计划 | 以 AI 辅助学习为核心，通过 Git 协作实践探索 AI 工具融入日常工作流 |
+| Etho (伊索) | Noldus AI 合伙人 | 内置 10,000+ 段落产品知识库的 AI 合伙人，秒级检索 Noldus 全线产品技术方案 |
+| 是我是我先明明都是我先来的 | Noldus Product Monitor | 基于 n8n 的论文自动化监控工作流：监听 Google Scholar 提醒、AI 识别研究对象并翻译、推送企业微信智能表格 |
+| frankcfw | 奇门遁甲预测APP | 奇门遁甲预测 APP |
+| WEI | 全自动报销系统 | 发票字段自动识别、漏报与过期提醒、财务端批处理 |
 | *[等待你的加入]* | - | - |
 
 > 💡 **历史项目参考**：[查看第零届参赛作品 →](./projects/season0-results.md)

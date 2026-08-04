@@ -16,3 +16,8 @@ desktop.ini
 *.tmp
 *.temp
 ~*
+
+# ai agent相关文件
+CLAUDE.md
+/.workbuddy
+/.claude
