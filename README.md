@@ -104,7 +104,7 @@ Outing 期间进行 **现场路演** + **评委打分**。
 <!-- 项目将通过 PR 自动添加，按提交时间排序 -->
 | 队伍 | 项目名称 | 简介 |
 |------|---------|------|
-| 是我<br>是我先<br>明明都是我先来的 | Noldus Product Monitor | 基于 n8n 的论文自动化监控工作流：监听 Google Scholar 提醒、AI 识别研究对象并翻译、推送企业微信智能表格 |
+| [噫噫呜呜 呜喔嗷嗷地就shǎng来了](https://b23.tv/UVWUfws "皮兜会不能停") | Noldus Product Monitor | 基于 n8n 的论文自动化监控工作流：监听 Google Scholar 提醒、AI 识别研究对象并翻译、推送企业微信智能表格 |
 | Etho (伊索) | Noldus AI 合伙人 | 内置 10,000+ 段落产品知识库的 AI 合伙人，秒级检索 Noldus 全线产品技术方案 |
 | Zest Wu | AI 辅助学习计划 | 以 AI 辅助学习为核心，通过 Git 协作实践探索 AI 工具融入日常工作流 |
 | AndyHub | DanioScope Basler Recorder | 与 DanioScope 配合的 Basler 工业相机录制工具，支持实时预览与 MP4 录制 |
