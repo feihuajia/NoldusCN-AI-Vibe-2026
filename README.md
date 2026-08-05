@@ -113,6 +113,7 @@ Outing 期间进行 **现场路演** + **评委打分**。
 | Shang | PhenoTyper Wall Configurator | 轻量网页配置工具，实时检查 PhenoTyper PT3000 四面墙板的组合兼容性 |
 | frankcfw | 奇门遁甲预测APP | 奇门遁甲预测 APP |
 | KANG | 3D轨迹数据分析可视化Web平台 | 将 Track3D 导出的 41 列 3D 轨迹数据变为浏览器内可交互、点击即联动的 Web 可视化平台 |
+| Operation | Biopac 配置方案导出工具 | 可视化选择 Biopac 主机/放大器/传感器/软件模块，实时校验搭配合理性并一键导出标准化配置单 |
 | *[等待你的加入]* | - | - |
 
 > 💡 **历史项目参考**：[查看第零届参赛作品 →](./projects/season0-results.md)
