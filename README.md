@@ -161,8 +161,8 @@ Outing 期间进行 **现场路演** + **评委打分**。
 
 不限！你可以使用任何 AI 辅助工具，包括但不限于：
 
-- **编程助手**：Claude Code、GitHub Copilot、Cursor、通义灵码等
-- **对话模型**：ChatGPT、Claude、GLM、文心一言等
+- **编程助手**：Claude Code、Codex、Cursor、Trae、CodeBuddy等
+- **对话模型**：ChatGPT、豆包、DeepSeek、千问等
 - **其他工具**：任何能帮助你提升效率的 AI 工具
 
 关键是展示你如何**深度使用**这些工具来实现创意。
