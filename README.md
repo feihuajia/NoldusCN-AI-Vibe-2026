@@ -112,8 +112,10 @@ Outing 期间进行 **现场路演** + **评委打分**。
 | WEI | 全自动报销系统 | 发票字段自动识别、漏报与过期提醒、财务端批处理 |
 | Shang | PhenoTyper Wall Configurator | 轻量网页配置工具，实时检查 PhenoTyper PT3000 四面墙板的组合兼容性 |
 | frankcfw | 奇门遁甲预测APP | 奇门遁甲预测 APP |
+| 278412441-blip | T3D calibration frame creator | 占位内容：「漩涡酒兑了」 |
 | KANG | 3D轨迹数据分析可视化Web平台 | 将 Track3D 导出的 41 列 3D 轨迹数据变为浏览器内可交互、点击即联动的 Web 可视化平台 |
 | Operation | Biopac 配置方案导出工具 | 可视化选择 Biopac 主机/放大器/传感器/软件模块，实时校验搭配合理性并一键导出标准化配置单 |
+| 大家都是我老师 | Outing Manager · 团建活动管理台 | 30人11天跨省团建管理台：行程/餐饮/住宿/任务/财务一页管理，纯前端已上线 GitHub Pages |
 | *[等待你的加入]* | - | - |
 
 > 💡 **历史项目参考**：[查看第零届参赛作品 →](./projects/season0-results.md)
