@@ -101,9 +101,21 @@ Outing 期间进行 **现场路演** + **评委打分**。
 
 ### 参赛项目目录
 
-<!-- 项目将通过 PR 自动添加 -->
+<!-- 项目将通过 PR 自动添加，按提交时间排序 -->
 | 队伍 | 项目名称 | 简介 |
 |------|---------|------|
+| [噫噫呜呜 呜喔嗷嗷地就shǎng来了](https://b23.tv/UVWUfws "皮兜会不能停") | Noldus Product Monitor | 基于 n8n 的论文自动化监控工作流：监听 Google Scholar 提醒、AI 识别研究对象并翻译、推送企业微信智能表格 |
+| Etho (伊索) | Noldus AI 合伙人 | 内置 10,000+ 段落产品知识库的 AI 合伙人，秒级检索 Noldus 全线产品技术方案 |
+| Zest Wu | AI 辅助学习计划 | 以 AI 辅助学习为核心，通过 Git 协作实践探索 AI 工具融入日常工作流 |
+| AndyHub | DanioScope Basler Recorder | 与 DanioScope 配合的 Basler 工业相机录制工具，支持实时预览与 MP4 录制 |
+| 404 | CatWalk AI Analyzer UI | 集成 LLM 的 CatWalk 步态分析 UI，自动解析步态指标、趋势可视化与实验合规检查 |
+| WEI | 全自动报销系统 | 发票字段自动识别、漏报与过期提醒、财务端批处理 |
+| Shang | PhenoTyper Wall Configurator | 轻量网页配置工具，实时检查 PhenoTyper PT3000 四面墙板的组合兼容性 |
+| frankcfw | 奇门遁甲预测APP | 奇门遁甲预测 APP |
+| 278412441-blip | T3D calibration frame creator | 占位内容：「漩涡酒兑了」 |
+| KANG | 3D轨迹数据分析可视化Web平台 | 将 Track3D 导出的 41 列 3D 轨迹数据变为浏览器内可交互、点击即联动的 Web 可视化平台 |
+| Operation | Biopac 配置方案导出工具 | 可视化选择 Biopac 主机/放大器/传感器/软件模块，实时校验搭配合理性并一键导出标准化配置单 |
+| 大家都是我老师 | Outing Manager · 团建活动管理台 | 30人11天跨省团建管理台：行程/餐饮/住宿/任务/财务一页管理，纯前端已上线 GitHub Pages |
 | *[等待你的加入]* | - | - |
 
 > 💡 **历史项目参考**：[查看第零届参赛作品 →](./projects/season0-results.md)
@@ -151,8 +163,8 @@ Outing 期间进行 **现场路演** + **评委打分**。
 
 不限！你可以使用任何 AI 辅助工具，包括但不限于：
 
-- **编程助手**：Claude Code、GitHub Copilot、Cursor、通义灵码等
-- **对话模型**：ChatGPT、Claude、GLM、文心一言等
+- **编程助手**：Claude Code、Codex、Cursor、Trae、CodeBuddy等
+- **对话模型**：ChatGPT、豆包、DeepSeek、千问等
 - **其他工具**：任何能帮助你提升效率的 AI 工具
 
 关键是展示你如何**深度使用**这些工具来实现创意。
